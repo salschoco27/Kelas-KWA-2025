@@ -11,3 +11,10 @@ Log in with the administrator's user account.
 ![alt text](image-2.png)
 3. Berhasil login sebagai Admin seperti yang diminta.
 ![alt text](image.png)
+
+## Coding Challenge
+### Find It
+![alt text](image-9.png)
+
+### Fix It
+![alt text](image-10.png)
