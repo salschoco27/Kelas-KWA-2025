@@ -1,7 +1,7 @@
 # Login Jim - OWASP Juice Shop
 Website: [OWASP Juice Shop - Injection](https://demo.owasp-juice.shop/#/score-board?categories=Injection)
 
-## Soal <br>
+## Description <br>
 Log in with Jim's user account.
 
 ## Step-by-step 

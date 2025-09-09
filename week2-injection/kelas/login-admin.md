@@ -1,7 +1,7 @@
 # Login Admin - OWASP Juice Shop
 Website: [OWASP Juice Shop - Injection](https://demo.owasp-juice.shop/#/score-board?categories=Injection)
 
-## Soal <br>
+## Description <br>
 Log in with the administrator's user account.
 
 ## Step-by-step 
