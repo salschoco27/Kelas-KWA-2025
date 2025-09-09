@@ -13,3 +13,9 @@ Log in with Jim's user account.
 ![alt text](image-4.png)
 4. Dan login sukses menggunakan akun tersebut!
 ![alt text](image-5.png)
+
+## Coding Challenge
+### Find It
+![alt text](image-39.png)
+### Fix It
+![alt text](image-40.png)

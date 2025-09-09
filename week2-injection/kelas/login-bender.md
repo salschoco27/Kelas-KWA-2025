@@ -13,3 +13,9 @@ Log in with Bender's user account.
 ![alt text](image-8.png)
 4. Dan kita berhasil login sebagai Bender!
 ![alt text](image-7.png)
+
+## Coding Challenge
+### Find It
+![alt text](image-41.png)
+### Fix It
+![alt text](image-42.png)

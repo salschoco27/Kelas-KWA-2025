@@ -10,6 +10,7 @@ Order the Christmas special offer of 2014.
 3. ![alt text](image-35.png)
 4. ![alt text](image-36.png)
 5. ![alt text](image-37.png)
+6. ![alt text](image-38.png)
 ## Coding Challenge
 ### Find It
 
