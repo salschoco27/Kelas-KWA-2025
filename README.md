@@ -14,5 +14,5 @@
         h. [OWASP Juice Shop - User Credentials](/week2-injection/kelas/login-bender.md)
     - [Mandiri](/week2-injection/mandiri/)<br>
         a. [PicoCTF - SSTI1](/week2-injection/mandiri/SSTI1-pico.md)<br>
-        b. [Hack The Box - Flag Command](/week2-injection/mandiri/Flag%20Command-HTB.md)
+        b. [Hack The Box - Flag Command](/week2-injection/mandiri/Flag%20Command-HTB.md)<br>
         c. [PicoCTF - Cookie Monster Secret Recipe](/week2-injection/mandiri/Cookie%20Monster%20-%20pico.md)<br>
