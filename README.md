@@ -16,5 +16,5 @@
         a. [PicoCTF - SSTI1](/week2-injection/mandiri/SSTI1-pico.md)<br>
         b. [Hack The Box - Flag Command](/week2-injection/mandiri/Flag%20Command-HTB.md)<br>
         c. [PicoCTF - Cookie Monster Secret Recipe](/week2-injection/mandiri/Cookie%20Monster%20-%20pico.md)<br>
-        d. [PortSwigger - Reflected XSS](/week2-injection/mandiri/Reflected%20XSS%20-%20portswigger.md)
+        d. [PortSwigger - Reflected XSS](/week2-injection/mandiri/Reflected%20XSS%20-%20portswigger.md)<br>
         e. [PortSwigger - Detectingg NoSQL Injection](/week2-injection/mandiri/Detecting%20NoSQL%20Injection-portswigger.md)
